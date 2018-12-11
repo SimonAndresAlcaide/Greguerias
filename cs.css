@@ -1,0 +1,36 @@
+
+body {
+  background-color: darkgreen;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 300%;
+  text-transform: capitalize;
+}
+
+p {
+  font-size: 150%;
+}
+
+p.Satan {
+  color: white;
+  font-family: serif;
+  font-style: oblique;
+}
+
+p.iglesia {
+  color: bisque;
+  font-family: sans-serif;
+}
+
+p.pontifice {
+  color: orange;
+  font-family: monospace;
+  font-size: 200%;
+}
+
+p.gloria {
+  color: pink;
+  font-family: cursive;
+}
